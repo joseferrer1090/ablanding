@@ -1,27 +1,28 @@
 <template>
   <div>
-    <header class="header-area" id="#home"> 
-      <header-top/>
-      <menu-header/>
-  </header>
-  <slider-principal/>
-  <about/>
-  <slider-small/>
-  <skill-area/>
-  <support-section/>
-  <historial-section/>
-  <our-team-section/>
-  <testimonial/>
-  <clients/>
-  <licenses/>
-  <team-work/>
-  <stay-in-touch/>
-  <footer/>
+      <header class="header-area" id="#home"> 
+        <header-top/>
+        <menu-header/>
+    </header>
+    <slider-principal/>
+    <about/>
+    <slider-small/>
+    <skill-area/>
+    <support-section/>
+    <historial-section/>
+    <our-team-section/>
+    <testimonial/>
+    <clients/>
+    <licenses/>
+    <team-work/>
+    <stay-in-touch/>
+    <footer/>
   </div>
   
 </template>
 
 <script>
+
 import HeaderTop from "./components/HeaderTop.vue"
 import MenuHeader from "./components/MenuHeader.vue"
 import MenuMobile from "./components/MobileMenu.vue"
