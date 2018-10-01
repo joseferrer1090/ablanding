@@ -18,7 +18,7 @@
                                 <ul>
                                     <li class="smooth-menu"><a href="#">INSPECTIONS SERVICES</a>
                                         <ul class="sub-menu">
-                                            <li><a href="index.html">RESIDENTIAL</a>
+                                            <li><a href="/inspection/residential">RESIDENTIAL</a>
                                             </li>
                                             <li><a href="home-2.html">COMMERCIAL</a>
                                             </li>

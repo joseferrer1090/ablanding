@@ -1,4 +1,5 @@
 import Vue from "vue";
+import router from "./router/router"
 import App from "./App.vue";
 import jquery from "jquery";
 global.jquery = jquery;
@@ -21,6 +22,7 @@ require("./assets/js/app.js");
 require("./assets/js/main.js");
 
 new Vue({
+  router,
   el: "#app",
   render: h => h(App)
 });
