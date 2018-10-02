@@ -768,7 +768,8 @@ MOBILE MENU
 ====================================*/
 
 .about-area {
-    padding: 100px 0 90px;
+    /* padding: 100px 0 90px; */
+    padding: 50px 0 30px;
 }
 
 .single-about {
@@ -3061,4 +3062,10 @@ gr-contact .leave-form .form-group .input-field,
     font-size: 22px;
     text-transform: capitalize;
     margin-bottom: 30px;
+}
+
+.dateInformation {
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 15px;
 }
