@@ -20,21 +20,21 @@
                                         <ul class="sub-menu">
                                             <li><a href="/inspection/residential">RESIDENTIAL</a>
                                             </li>
-                                            <li><a href="home-2.html">COMMERCIAL</a>
+                                            <li><a href="/inspection/commercial">COMMERCIAL</a>
                                             </li>
-                                            <li><a href="home-3-parallax.html">DAMAGE ASSESMENT</a>
+                                            <li><a href="/inspection/damage">DAMAGE ASSESMENT</a>
                                             </li>
-                                            <li><a href="home-4-gradient.html">PRE-SALE INSPECTIONS</a>
+                                            <li><a href="/inspection/presale">PRE-SALE INSPECTIONS</a>
                                             </li>
-                                            <li><a href="home-5.html">INSURANCE INSPECTIONS</a>
+                                            <li><a href="/inspection/insuranceinspection">INSURANCE INSPECTIONS</a>
                                             </li>
-                                            <li><a href="single-blog.html">40 YEAR RECERTIFICATION</a>
+                                            <li><a href="/inspection/recertificacion">40 YEAR RECERTIFICATION</a>
                                             </li>
-                                            <li><a href="404-page.html">RESERVE STUDY</a>
+                                            <li><a href="/inspection/reservestudy">RESERVE STUDY</a>
                                             </li>
-                                            <li><a href="">CERTIFICATE OF USE</a></li>
-                                            <li><a href="">BALCONY INSPECTION</a></li>
-                                            <li><a href="">CONSULTING</a></li>
+                                            <li><a href="/inspection/certificateofuser">CERTIFICATE OF USE</a></li>
+                                            <li><a href="/inspection/balcony">BALCONY INSPECTION</a></li>
+                                            <li><a href="/inspection/consulting">CONSULTING</a></li>
                                         </ul>
                                     </li>
                                     <li class="smooth-menu"><a href="#about">TESTIMONALS</a>
