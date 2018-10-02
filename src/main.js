@@ -1,5 +1,5 @@
 import Vue from "vue";
-import router from "./router/router"
+import router from "./router/router";
 import App from "./App.vue";
 import jquery from "jquery";
 global.jquery = jquery;
@@ -8,8 +8,9 @@ window.$ = window.jQuery = require("jquery");
 $ = require("jquery");
 // require("./assets/js/modernizr-2.8.3.min.js");
 // require("./assets/js/jquery.prettyPhoto.js");
+require("./assets/js/jquery.parallax-1.1.3.js");
 require("./assets/js/jquery.nivo.slider.js");
-// require("./assets/js/wow.js");
+require("./assets/js/wow.js");
 require("./assets/js/jquery.sticky.js");
 require("./assets/js/jquery.scrollUp.min.js");
 require("./assets/js/owl.carousel.min.js");
@@ -19,7 +20,7 @@ require("./assets/js/jquery.easing-1.3.js");
 require("./assets/js/jquery.counterup.min.js");
 require("./assets/js/jquery.waypoints.min.js");
 require("./assets/js/app.js");
-require("./assets/js/main.js");
+// require("./assets/js/main.js");
 
 new Vue({
   router,

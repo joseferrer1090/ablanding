@@ -14,15 +14,15 @@
                             <div class="slider-content">
                                 <!-- Direction 1 -->
                                 <div class="wow bounceInRight" data-wow-duration="1.5" data-wow-delay=".5s ">
-                                    <h1 class="title1">hello, <span class="color">welcome</span> to espark</h1>
+                                    <h4 class="title1 text-center">SOUTH FLORIDA’S LEADING BUILDING INSPECTION COMPANY</h4>
                                 </div>
                                 <!-- Direction 2 -->
-                                <div class="wow bounceInRight" data-wow-duration="2" data-wow-delay=".7s ">
-                                    <p class="title2">We are Design & Marketing Agency</p>
-                                </div>
+                                <!-- <div class="wow bounceInRight" data-wow-duration="2" data-wow-delay=".7s ">
+                                    <p class="title2 text-center">We are Design & Marketing Agency</p>
+                                </div> -->
                                 <!-- Direction 3 -->
-                                <div class="wow bounceInUp" data-wow-duration="1.5" data-wow-delay=".9s ">
-                                    <a href="#" class="ready-btn">read more</a>
+                                <div class="wow bounceInUp text-center" data-wow-duration="1.5" data-wow-delay=".9s ">
+                                    <a href="#" class="ready-btn">REQUEST A QUOTE</a>
                                 </div>
                             </div>
                         </div>
@@ -39,15 +39,15 @@
                             <div class="slider-content">
                                 <!-- Direction 1 -->
                                 <div class="wow slideInLeft" data-wow-duration="1.5" data-wow-delay=".5s ">
-                                    <h1 class="title1">explore your <span class="color">dream</span> business</h1>
+                                   <h4 class="title1 text-center">SOUTH FLORIDA’S LEADING BUILDING INSPECTION COMPANY</h4>
                                 </div>
                                 <!-- Direction 2 -->
-                                <div class="wow slideInLeft" data-wow-duration="2" data-wow-delay=".7s ">
+                                <!-- <div class="wow slideInLeft" data-wow-duration="2" data-wow-delay=".7s ">
                                     <p class="title2">we are ready to lessen your work </p>
-                                </div>
+                                </div> -->
                                 <!-- Direction 3 -->
-                                <div class="wow bounceInUp" data-wow-duration="1.5" data-wow-delay=".9s ">
-                                    <a href="#" class="ready-btn">read more</a>
+                                <div class="wow bounceInUp text-center" data-wow-duration="1.5" data-wow-delay=".9s ">
+                                    <a href="#" class="ready-btn">REQUEST A QUOTE</a>
                                 </div>
                             </div>
                         </div>

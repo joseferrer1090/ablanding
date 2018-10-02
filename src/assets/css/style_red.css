@@ -2282,7 +2282,8 @@ SKILL CSS
     z-index: 9999;
 }
 
-.slider-area .ready-btn {
+
+/* .slider-area .ready-btn {
     line-height: 50px;
     padding: 13px 30px;
     background: #d11b25;
@@ -2290,6 +2291,17 @@ SKILL CSS
     color: #fff;
     font-family: Raleway-Medium;
     text-transform: uppercase;
+} */
+
+.slider-area .ready-btn {
+    line-height: 50px;
+    padding: 13px 40px;
+    background: #08080865;
+    border-radius: 20px;
+    color: #fff;
+    font-family: Raleway-Medium;
+    /* text-transform: lowercase; */
+    font-size: 18px;
 }
 
 

@@ -3,6 +3,7 @@
       <header class="header-area" id="#home"> 
         <header-top/>
         <menu-header/>
+        <menu-mobile/>
     </header>
     <slider-principal/>
     <about/>
