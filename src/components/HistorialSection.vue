@@ -1,5 +1,7 @@
 <template>
-    <p>Hisotrial Section</p>
+    <div>
+        <p>Hola mindo</p>
+    </div>
 </template>
 <script>
 export default {

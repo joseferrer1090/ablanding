@@ -1112,7 +1112,8 @@ div.pp_default .pp_close {
 ===================================*/
 
 .skill-area {
-    background: #f4f4f4 none repeat scroll 0 0;
+    /* background: #f4f4f4 none repeat scroll 0 0; */
+    background: none repeat scroll 0 0;
     overflow: hidden;
 }
 
@@ -3068,4 +3069,8 @@ gr-contact .leave-form .form-group .input-field,
     border: 2px solid red;
     border-radius: 20px;
     font-size: 15px;
+}
+
+.btn-rounded {
+    border-radius: 30px !important;
 }

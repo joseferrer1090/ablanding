@@ -3,47 +3,25 @@
     <section class="skill-area">
         <div class="row">
           <div class="col-md-6">
-            <div class="our-skill-wrap">
-            <h3>our awesome <span class="color">skill</span></h3>
-            <div class="our-skill">
-                <div class="skill wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-                    <!-- progress start -->
-                    <div class="progress">
-                        <div class="lead">Web Development</div>
-                        <div class="progress-bar wow fadeInLeft" data-progress="95%" style="width: 95%;" data-wow-duration="1.5s" data-wow-delay="1.2s"> <span>95%</span>
-                        </div>
+           <section style="padding: 0px 0 5px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8" >
+                    <div class="section-text">
+                        <h3 class="text-left">TJourney out of wreckage of Hurricane Andrew enters <span class="color">24th year of serving South Florida</span> </h3>
+                        <p class="s-title text-left" style="font-size: 13px;">
+                            It’s was 2:45AM on August 24, 1992, and John Micali was hunkered down straining to listen to updates on a battery-powered radio in his south Miami condo. He could barely hear over the whistling sounds of electrical outlets, roaring wind and thunder claps. Flashes of lightning pierced through the darkness and the building shook. Outside, 140 mph winds devastated the landscape. Micali recalls “When the wind stopped and the sun came up, I opened the door, and everything was destroyed. I could see for miles. I knew life would never be the same.” Nothing from his University of Florida education, nor his construction experience could have prepared Micali for the devastation he would soon encounter. By December, he found himself inspecting and rebuilding damaged homes in Country Walk. The evolution that transpired afterwards has taken Micali down a career path that has spanned over 2 decades. “I found myself assessing buildings and writing reports on the damages found as part of the bidding and contracting process. The clients used my reports to collect on insurance and determine the scope of the repairs they needed.
+                        </p>
+                        <a href="#" class="btn btn-danger btn-rounded   pull-right">purchase now</a>
+                        <br>
                     </div>
-                    <!-- progress end -->
-                    <!-- progress start -->
-                    <div class="progress">
-                        <div class="lead">App Development</div>
-                        <div class="progress-bar wow fadeInLeft" data-progress="90%" style="width: 90%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>90%</span> </div>
-                    </div>
-                    <!-- progress end -->
-                    <!-- progress start -->
-                    <div class="progress">
-                        <div class="lead">Software Development</div>
-                        <div class="progress-bar wow fadeInLeft" data-progress="85%" style="width: 85%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>85%</span> </div>
-                    </div>
-                    <!-- progress end -->
-                    <!-- progress start -->
-                    <div class="progress">
-                        <div class="lead">Graphics Design</div>
-                        <div class="progress-bar wow fadeInLeft" data-progress="80%" style="width: 80%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>90%</span> </div>
-                    </div>
-                    <!-- progress end -->
-                    <!-- progress start -->
-                    <div class="progress">
-                        <div class="lead">Marketing </div>
-                        <div class="progress-bar wow fadeInLeft" data-progress="70%" style="width: 70%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>80%</span> </div>
-                    </div>
-                    <!-- PROGRESS END -->
                 </div>
             </div>
         </div>
+    </section>
           </div>
           <div class="col-md-6">
-            <img src="./../assets/images/slide1.jpg" alt="">
+            <img src="./../assets/images/slide1.jpg" class="img-responsive" alt="" style="height: 500px;">
           </div>
         </div>
     </section>
